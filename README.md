@@ -1,0 +1,2 @@
+# iBeaconSample
+LocationFrameworkを使用した実装
